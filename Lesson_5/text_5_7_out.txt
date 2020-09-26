@@ -1,0 +1,1 @@
+[{"AMD": 22500.0, "Tata_Motors": -25270.0, "IAI": -7890.0, "AstraZeneca": -56190.0, "British_Airlines": 202380.0}, {"Average_profit": 112440.0}]

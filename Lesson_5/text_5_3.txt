@@ -1,0 +1,5 @@
+Jonhson 15100
+Smith 27700
+Brown 19500
+Wilson 22300
+Miller 17900
