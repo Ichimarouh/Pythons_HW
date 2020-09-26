@@ -1,0 +1,5 @@
+AMD Inc. 150500 128000
+Tata_Motors Ltd. 89900 115170
+IAI Ltd. 56890 64780
+AstraZeneca Inc. 189700 245890
+British_Airlines Ltd. 218100 15720
